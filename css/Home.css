@@ -76,7 +76,7 @@
 
 .u-section-bc {
     background-position: 50% 73.55%;
-    background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("https://i.imgur.com/X4oKPM6.jpg");
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("../lib/Images/front-bellevuechildrensacademy.jpg");
 }
 
     .u-section-bc .u-sheet-1 {
@@ -144,7 +144,6 @@
     width: 180px;
     height: 180px;
     margin: 29px auto 0 30%;
-    
 }
 
 .u-section-2 .u-image-1 {
@@ -460,25 +459,25 @@
 
     .u-section-5 .u-image-1 {
         min-height: 431px;
-        background-image: url("https://i.imgur.com/0BJOGUb.png");
+        background-image: url("../lib/Images/seattlechristian.png");
         background-position: 50% 50%;
     }
 
     .u-section-5 .u-image-2 {
         min-height: 431px;
-        background-image: url("https://i.imgur.com/sKo9pL8.png");
+        background-image: url("../lib/Images/bellevuechristianschool.png");
         background-position: 50% 50%;
     }
 
     .u-section-5 .u-image-3 {
         min-height: 431px;
-        background-image: url("https://i.imgur.com/pELeHDu.png");
+        background-image: url("../lib/Images/holyfamilyparish.png");
         background-position: 50% 50%;
     }
 
     .u-section-5 .u-image-4 {
         min-height: 431px;
-        background-image: url("https://i.imgur.com/tK0AhsY.png");
+        background-image: url("../lib/Images/etonschool.png");
         background-position: 50% 50%;
     }
 
@@ -600,13 +599,13 @@
 
     .u-section-6 .u-image-1 {
         min-height: 431px;
-        background-image: url("https://i.imgur.com/ZHSDjS3.jpg");
+        background-image: url("../lib/Images/bellevuechildrensacademy.jpeg");
         background-position: 50% 50%;
     }
 
     .u-section-6 .u-image-2 {
         min-height: 431px;
-        background-image: url("https://i.imgur.com/8XnGqxl.png");
+        background-image: url("../lib/Images/stjosephschool.png");
         background-position: 50% 50%;
     }
 
@@ -682,17 +681,16 @@
     transform-origin: left center 0px;
 }
 
-
 }
 
 .u-section-7 {
-    background-image: url("https://i.imgur.com/nL0v7Mh.jpg");
+    background-image: url("../lib/Images/openbook.jpg");
     background-position: 50% 50%;
 }
 
     .u-section-7 .u-sheet-1 {
         min-height: 761px;
-        background-image: url("https://i.imgur.com/nL0v7Mh.jpg");
+        background-image: url("../lib/Images/openbook.jpg");
     }
 
     .u-section-7 .u-layout-wrap-1 {
@@ -1211,13 +1209,13 @@
 }
 
 .u-section-8 .u-container-layout-2 {
-    padding: 30px;
+    padding: 19px 30px;
 }
 
 .u-section-8 .u-image-1 {
-    height: 490px;
-    margin-top: 0;
-    margin-bottom: 0;
+    height: 501px;
+    width: 371px;
+    margin: 0 62px 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -1242,7 +1240,7 @@
     }
 
     .u-section-8 .u-image-1 {
-        height: 394px;
+        margin-right: 39px;
     }
 }
 
@@ -1260,7 +1258,9 @@
     }
 
     .u-section-8 .u-image-1 {
-        height: 288px;
+        height: 405px;
+        width: 300px;
+        margin-right: 0;
     }
 }
 
@@ -1282,10 +1282,6 @@
         padding-left: 10px;
         padding-right: 10px;
     }
-
-    .u-section-8 .u-image-1 {
-        height: 499px;
-    }
 }
 
 @media (max-width: 575px) {
@@ -1295,10 +1291,6 @@
 
     .u-section-8 .u-layout-cell-2 {
         min-height: 329px;
-    }
-
-    .u-section-8 .u-image-1 {
-        height: 307px;
     }
 }
 
@@ -1323,7 +1315,7 @@
 
     .u-section-9 .u-image-1 {
         min-height: 430px;
-        background-image: url("images/pexels-photo-8713145.jpeg");
+        background-image: url("https://i.imgur.com/iQHTLrW.jpg");
         background-position: 50% 50%;
     }
 
@@ -1341,7 +1333,7 @@
     }
 
     .u-section-9 .u-text-2 {
-        line-height: 1.2;
+        line-height: 1;
         font-size: 1.875rem;
         font-weight: 700;
         margin: 0;
@@ -1349,7 +1341,7 @@
 
     .u-section-9 .u-text-3 {
         font-size: 1.125rem;
-        line-height: 1.8;
+        line-height: 1.2;
         margin: 21px 0 0;
     }
 
@@ -1520,9 +1512,9 @@
 .u-section-11 .u-image-1 {
     width: 213px;
     height: 213px;
-    background-image: url("images/44d5d282-18f7-4295-9493-b2865af9bf3d.jpg");
+    background-image: url("https://i.imgur.com/g8Aet1t.png");
     background-position: 50% 50%;
-    margin: -95px auto 0;
+    margin: 20px auto 0;
 }
 
 .u-section-11 .u-text-1 {
@@ -1541,8 +1533,8 @@
 .u-section-11 .u-social-icons-1 {
     height: 25px;
     min-height: 16px;
-    width: 136px;
-    min-width: 100px;
+    width: 62px;
+    min-width: 44px;
     margin: 47px auto 0;
 }
 
@@ -1687,3 +1679,44 @@
         min-height: 100px;
     }
 }
+
+.u-section-12 .u-sheet-1 {
+    min-height: 500px;
+}
+
+.u-section-12 .u-image-bookfair {
+    height: 563px;
+    margin: 0 auto;
+}
+
+@media (max-width: 991px) {
+    .u-section-12 .u-sheet-1 {
+        min-height: 441px;
+    }
+
+    .u-section-12 .u-image-bookfair {
+        width: 720px;
+        height: 504px;
+    }
+}
+
+@media (max-width: 767px) {
+    .u-section-12 .u-sheet-1 {
+        min-height: 315px;
+    }
+
+    .u-section-12 .u-image-bookfair {
+        width: 540px;
+        height: 378px;
+    }
+}
+
+@media (max-width: 575px) {
+    .u-section-12 .u-sheet-1 {
+        min-height: 175px;
+    }
+
+    .u-section-12 .u-image-bookfair {
+        width: 340px;
+        height: 238px;
+    }
