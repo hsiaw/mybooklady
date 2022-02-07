@@ -20,13 +20,14 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" href="/">My Book Lady</a>
-                <a href="https://m12065.myubam.com/NoEvent" target="_blank"><img class="navbar-brand" src="https://ihomeschoolwithubam.files.wordpress.com/2019/06/ubam_ic_web-1.png" alt="ubam logo" height="50" /> </a>
+                <img class="navbar-brand" src="https://ihomeschoolwithubam.files.wordpress.com/2019/06/ubam_ic_web-1.png" alt="ubam logo" height="50" />
 
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                <a href="javascript:void(0);" onclick="myFunction()">
+                    <span class="mobileonly navbar-toggler-icon"></span>
+                </a>
+
+
+                <div id="myLinks" class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" href="/">Home</a>
@@ -126,3 +127,14 @@
 
 
 </html>
+
+<script>
+    function myFunction() {
+        var x = document.getElementById("myLinks");
+        if (x.style.display === "block") {
+            x.style.display = "none";
+        } else {
+            x.style.display = "block";
+        }
+    }
+</script>
