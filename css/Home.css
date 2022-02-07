@@ -2189,3 +2189,46 @@
     width: 40px;
     height: 40px;
 }
+
+.u-section-15 .u-sheet-1 {
+    min-height: 205px;
+}
+
+.u-section-15 .u-image-1 {
+    width: 867px;
+    height: 204px;
+    margin: 1px auto;
+}
+
+@media (max-width: 991px) {
+    .u-section-15 .u-sheet-1 {
+        min-height: 170px;
+    }
+
+    .u-section-15 .u-image-1 {
+        width: 720px;
+        height: 169px;
+    }
+}
+
+@media (max-width: 767px) {
+    .u-section-15 .u-sheet-1 {
+        min-height: 128px;
+    }
+
+    .u-section-15 .u-image-1 {
+        width: 540px;
+        height: 127px;
+    }
+}
+
+@media (max-width: 575px) {
+    .u-section-15 .u-sheet-1 {
+        min-height: 81px;
+    }
+
+    .u-section-15 .u-image-1 {
+        width: 340px;
+        height: 80px;
+    }
+}
