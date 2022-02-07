@@ -7,6 +7,7 @@ for details on configuring this project to bundle and minify static web assets. 
     --schemeLeaf: #66AB8C;
 }
 
+
 a.salmonbutton{
     background-color:#FA7C92;
     white-space:normal;
@@ -49,6 +50,10 @@ html {
   html {
     font-size: 16px;
   }
+
+  mobileonly{
+      display:none;
+  }
 }
 
 .border-top {
@@ -78,6 +83,9 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
+
+
+
 .footer {
   position: absolute;
   bottom: 0;
