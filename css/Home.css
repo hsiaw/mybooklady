@@ -1833,6 +1833,10 @@
         padding-left: 10px;
         padding-right: 10px;
     }
+
+    .u-section-13 .u-text-1 {
+        margin: 0 auto 0 0;
+    }
 }
 
 @media (max-width: 575px) {
