@@ -1345,6 +1345,13 @@
         line-height: 1.2;
         margin: 21px 0 0;
     }
+    .u-section-9 .u-text-3-columns {
+        font-size: 1.125rem;
+        line-height: 1.2;
+        margin: 21px 0 0;
+        column-count:2;
+        column-rule-width: 1px;
+    }
 
     .u-section-9 .u-btn-1 {
         border-style: none;
