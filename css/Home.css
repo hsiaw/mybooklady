@@ -610,6 +610,12 @@
         background-position: 50% 50%;
     }
 
+    .u-section-6 .u-image-eton {
+        min-height: 431px;
+        background-image: url("https://i.imgur.com/tK0AhsY.png");
+        background-position: 50% 50%;
+    }
+
     .u-section-6 .u-container-layout-2 {
         padding: 30px 60px;
     }
