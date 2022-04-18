@@ -56,16 +56,6 @@ html {
   }
 }
 
-@media (max-width: 767px) {
-    html {
-        font-size: 16px;
-    }
-
-    .mobileonly {
-        display: none;
-    }
-}
-
 .border-top {
   border-top: 1px solid #e5e5e5;
 }
