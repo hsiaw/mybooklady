@@ -54,6 +54,18 @@ html {
   .mobileonly{
       display:none;
   }
+
+ 
+}
+
+@media (max-width: 767px) {
+    html {
+        font-size: 16px;
+    }
+
+    .hidenav {
+        display: none;
+    }
 }
 
 .border-top {
