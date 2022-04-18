@@ -64,7 +64,7 @@ html {
     }
 
     .hidenav {
-        display: none;
+        display: none !important;
     }
 }
 
