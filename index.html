@@ -11,6 +11,11 @@
     <script class="u-script" type="text/javascript" src="./js/jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="./js/nicepage.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="./js/bootstrap.bundle.min.js" defer=""></script>
+    <script>
+        $.get("nav.html", function (data) {
+            $("#nav-placeholder").replaceWith(data);
+        });
+    </script>
 </head>
 
 
@@ -18,17 +23,9 @@
 <body>
 
     <header class="u-clearfix u-header u-header" id="sec-acde">
-        <!--Navigation bar-->
         <div id="nav-placeholder">
 
         </div>
-
-        <script>
-            $(function () {
-                $("#nav-placeholder").load("nav.html");
-            });
-        </script>
-        <!--end of Navigation bar-->
     </header>
 
     <!--
