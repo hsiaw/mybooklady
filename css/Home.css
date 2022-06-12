@@ -3523,3 +3523,18 @@
 .u-section-22 .u-shape-5 {
     stroke-width: 0 !important;
 }
+
+.u-section-23 .u-sheet-1 {
+    min-height: 152px;
+}
+
+.u-section-23 .u-btn-1 {
+    border-style: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    background-image: none;
+    margin: 0 auto;
+    padding: 65px 310px;
+}
