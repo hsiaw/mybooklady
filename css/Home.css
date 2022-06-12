@@ -3538,3 +3538,30 @@
     margin: 0 auto;
     padding: 65px 310px;
 }
+
+@media (max-width: 991px) {
+    .u-section-23 .u-sheet-1 {
+        min-height: 206px;
+    }
+
+    .u-section-23 .u-btn-1 {
+        margin-left: 0;
+        margin-right: 0;
+        padding-right: 215px;
+        padding-left: 214px;
+    }
+}
+
+@media (max-width: 767px) {
+    .u-section-23 .u-btn-1 {
+        padding-right: 125px;
+        padding-left: 124px;
+    }
+}
+
+@media (max-width: 575px) {
+    .u-section-23 .u-btn-1 {
+        padding-right: 25px;
+        padding-left: 24px;
+    }
+}
