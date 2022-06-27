@@ -4257,3 +4257,34 @@
         width: 340px;
     }
 }
+.u-section-27 .u-sheet-1 {
+    min-height: 149px;
+}
+
+.u-section-27 .u-image-1 {
+    width: 570px;
+    height: 156px;
+    margin: -7px auto 0;
+}
+
+@media (max-width: 767px) {
+    .u-section-27 .u-sheet-1 {
+        min-height: 141px;
+    }
+
+    .u-section-27 .u-image-1 {
+        width: 540px;
+        height: 148px;
+    }
+}
+
+@media (max-width: 575px) {
+    .u-section-27 .u-sheet-1 {
+        min-height: 86px;
+    }
+
+    .u-section-27 .u-image-1 {
+        width: 340px;
+        height: 93px;
+    }
+}
