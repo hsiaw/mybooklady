@@ -4601,3 +4601,36 @@
         margin-top: -59px;
     }
 }
+
+.u-section-30 {
+    background-image: url("https://i.imgur.com/cJm0Onp.jpg");
+    background-position: 50% 50%;
+}
+
+    .u-section-30 .u-sheet-1 {
+        min-height: 253px;
+    }
+
+@media (max-width: 1199px) {
+    .u-section-30 .u-sheet-1 {
+        min-height: 209px;
+    }
+}
+
+@media (max-width: 991px) {
+    .u-section-30 .u-sheet-1 {
+        min-height: 160px;
+    }
+}
+
+@media (max-width: 767px) {
+    .u-section-30 .u-sheet-1 {
+        min-height: 130px;
+    }
+}
+
+@media (max-width: 575px) {
+    .u-section-30 .u-sheet-1 {
+        min-height: 87px;
+    }
+}
