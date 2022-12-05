@@ -11,12 +11,22 @@
     <script class="u-script" type="text/javascript" src="./js/jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="./js/nicepage.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="./js/bootstrap.bundle.min.js" defer=""></script>
-
+    <script src="https://code.jquery.com/jquery-3.3.1.js"
+            integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+            crossorigin="anonymous">
+    </script>
+    <script>
+        $(function () {
+            $("#header").load("header.html");
+        });
+    </script>
 </head>
 
 
 
 <body>
+
+    <div id="header"></div>
 
     <!--<header class="u-clearfix u-header u-header" id="sec-acde">
         <div class="u-clearfix u-sheet u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-sheet-1">
@@ -139,11 +149,6 @@
         </div>
 
     </header>-->
-
-
-    <!--#include file="header.html" -->
-
-
     <!--<section class="u-clearfix u-section-29" id="sec-47d9">
         <div class="u-clearfix u-sheet u-valign-middle-sm u-valign-middle-xs u-sheet-1">
             <div class="u-align-left u-border-3 u-border-custom-color-1 u-expanded-width u-left-0 u-shape u-shape-1"></div>
