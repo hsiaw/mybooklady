@@ -1714,8 +1714,8 @@
     }
 
     .u-section-12 .u-image-bookfair {
-        width: 720px;
-        height: 504px;
+        width: 100%;
+        height: auto;
     }
 }
 
@@ -1725,8 +1725,8 @@
     }
 
     .u-section-12 .u-image-bookfair {
-        width: 540px;
-        height: 378px;
+        width: 100%;
+        height: auto;
     }
 }
 
@@ -1736,8 +1736,8 @@
     }
 
     .u-section-12 .u-image-bookfair {
-        width: 340px;
-        height: 238px;
+        width: 100%;
+        height: auto;
     }
 }
 
